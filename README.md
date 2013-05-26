@@ -1,4 +1,7 @@
-emacs.d
-=======
+An easy Emacs configuration
+===========================
+This is my easy Emacs configuration.
 
-emacs configuration and plugins
+requirement:
+**Emacs 24 or greater**
+ 
